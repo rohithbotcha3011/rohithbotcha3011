@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rohithbotcha3011
+- 🌱 I’m currently pursuing finalyear graduation of btech in ECE ...
+- 💞️ I’m looking to collaborate on anything ...
+- 📫 How to reach me in mail rohithrj02@gmail.com ...
+
+<!---
+rohithbotcha3011/rohithbotcha3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
